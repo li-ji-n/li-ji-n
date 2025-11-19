@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced React Native Mobile App Developer with 5 years of experience. Equipped with excellent coding, debugging,<br>and project management abilities, consistently achieving project goals with elegant, scalable code. Highly effective team<br>member, skilled in working under Agile and Scrum frameworks. Adept at improving user experience and app<br>development, with a keen eye for detail and a passion for creating intuitive user experiences. Leveraging my technical and<br>leadership abilities, I am poised to contribute to innovative projects using responsive design principles, Agile<br>methodologies, and client interactions.
+Experienced React Native Mobile App Developer with 5+ years of experience. Equipped with excellent coding, debugging,<br>and project management abilities, consistently achieving project goals with elegant, scalable code. Highly effective team<br>member, skilled in working under Agile and Scrum frameworks. Adept at improving user experience and app<br>development, with a keen eye for detail and a passion for creating intuitive user experiences. Leveraging my technical and<br>leadership abilities, I am poised to contribute to innovative projects using responsive design principles, Agile<br>methodologies, and client interactions.
 
 
 ## 🌐 Socials:
